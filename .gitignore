@@ -1,0 +1,15 @@
+.idea
+Library
+UnityPackageManager
+Temp
+Logs
+Packages
+ProjectSettings
+*.unitypackage
+Assets/Plugins
+Assets/Scenes
+Assets/Plugins.meta
+Assets/Scenes.meta
+obj
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
