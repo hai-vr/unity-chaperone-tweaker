@@ -6,9 +6,9 @@ It allowed me to redefine precise boundaries for my own needs.
 ## How to use
 
 - Close SteamVR.
-- Open your Steam folder.
-- Make a backup of the `Steam/chaperone_info.vrchap` file!
-- Copy `Steam/chaperone_info.vrchap` to anywhere in the `Assets/` folder.
+- Open your `Steam/config` folder.
+- Make a backup of the `Steam/config/chaperone_info.vrchap` file!
+- Copy `Steam/config/chaperone_info.vrchap` to anywhere in the `Assets/` folder.
 - Create a new scene or reuse an existing scene.
 - Create a new GameObject at the root of the hierarchy.
 - Add a `Chaperone Tweaker` component.
@@ -19,7 +19,7 @@ It allowed me to redefine precise boundaries for my own needs.
 - Move the children GameObject spheres, delete, or add new ones.
 - Select the `Chaperone Tweaker` component to redraw the line renderer.
 - When done, click *Overwrite asset with new positions*.
-- Drag and drop the Asset back to the Steam folder to overwrite the `Steam/chaperone_info.vrchap` file.
+- Drag and drop the Asset back to the `Steam/config` folder to overwrite the `Steam/config/chaperone_info.vrchap` file.
 
 ## Notes and tips
 
