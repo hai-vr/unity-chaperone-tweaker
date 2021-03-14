@@ -3,6 +3,10 @@
 This a tool I wrote to edit my SteamVR Chaperone bounds inside Unity Editor.
 It allowed me to redefine precise boundaries for my own needs.
 
+Demonstration: https://twitter.com/vr_hai/status/1370883007805001730
+
+### [> Download latest version...](https://github.com/hai-vr/unity-chaperone-tweaker/releases)
+
 ## How to use
 
 - Close SteamVR.
